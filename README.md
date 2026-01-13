@@ -16,4 +16,10 @@ The goal of this project is to build a high-performance image classifier for 5 f
 ## Technical Stack
 - **Framework:** TensorFlow/Keras
 - **Architecture:** ResNet50
+
 - **Tools:** Jupyter (Google Colab), Matplotlib, Scikit-Learn, Seaborn.
+
+## 💾 Model Weights
+Due to GitHub's file size limits, the trained ResNet50 model (`best_model.keras`) is hosted on Google Drive.
+[Download Model Weights Here]
+(https://drive.google.com/file/d/1_ccjgdXf69yCDirXJsRF2FZJdmJloSoy/view?usp=sharing)
