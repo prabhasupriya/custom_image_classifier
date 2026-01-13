@@ -23,3 +23,7 @@ The goal of this project is to build a high-performance image classifier for 5 f
 Due to GitHub's file size limits, the trained ResNet50 model (`best_model.keras`) is hosted on Google Drive.
 [Download Model Weights Here]
 (https://drive.google.com/file/d/1_ccjgdXf69yCDirXJsRF2FZJdmJloSoy/view?usp=sharing)
+
+### Visual Results
+![Confusion Matrix](plots/confusion_matrix.png)
+![Grad-CAM Visualization](plots/gradcam_result.png)
